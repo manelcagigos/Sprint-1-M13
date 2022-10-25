@@ -1,2 +1,2 @@
-# Sprint-3-Grupal-Simps
-Sprint 3, Configuración de formularios
+# Sprint-1-M13
+Sprint 1, Configuración de formularios (estetica)
