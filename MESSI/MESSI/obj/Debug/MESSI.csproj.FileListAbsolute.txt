@@ -1,0 +1,14 @@
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\bin\Debug\MESSI.exe.config
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\bin\Debug\MESSI.exe
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\bin\Debug\MESSI.pdb
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.csproj.AssemblyReference.cache
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.Properties.Resources.resources
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.csproj.GenerateResource.cache
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.csproj.CoreCompileInputs.cache
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.exe
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.pdb
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.form_PantallaCarrega.resources
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.form_ValidacioAdmin.resources
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.form_ValidacioUsuari.resources
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.form_PaginaAdministracio.resources
+E:\S2AM\M13\Sprint#1 (Individual)\MESSI\MESSI\obj\Debug\MESSI.form_PaginaUsuari.resources
